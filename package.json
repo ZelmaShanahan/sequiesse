@@ -1,0 +1,22 @@
+{
+  "name": "sequiesse",
+  "version": "1.0.0",
+  "description": "Escape strings for use as JavaScript string literals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZelmaShanahan/sequiesse.git"
+  },
+  "keywords": [
+    "string",
+    "delectus",
+    "debitis",
+    "javascript",
+    "similique"
+  ],
+  "author": "AmosGerhold",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "latest"
+  }
+}
